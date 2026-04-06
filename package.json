@@ -1,0 +1,7 @@
+{
+  "name": "facebookleads",
+  "version": "1.0.0",
+  "description": "Facebook leads to Live Agent tickets webhook",
+  "private": true,
+  "dependencies": {}
+}
